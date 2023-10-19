@@ -46,7 +46,7 @@ On Github, create a pull request (name it Development) and mark me as a reviewer
 
 In your **STUDENT LOG** answer the following questions
 
-- Explain what a foreach loop is and why it is normally preferable to a traditional for loop (e.g. for(int i = 0; i < word.Length; i++)?
+- Explain what a foreach loop is and why it is normally preferable to a traditional for loop (e.g. `for(int i = 0; i < word.Length; i++)`?
 - Why did we make PasswordValidator a static class?
 - Why is it best practice that methods that return a boolean start with `is` or `has`?
 
