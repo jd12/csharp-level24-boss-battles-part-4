@@ -19,7 +19,7 @@ code .
 
 to open it in VS code (note the `.` to denote the current directory)
 
-## The Card
+## The Password Validator
 
 After completing The Password Validator Boss Battle run the following commands
 
